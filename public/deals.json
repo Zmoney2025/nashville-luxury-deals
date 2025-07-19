@@ -1,0 +1,26 @@
+{
+  "hotels": [
+    {
+      "name": "The Hermitage Hotel",
+      "description": "Stay in luxury with 20% off this weekend.",
+      "link": "https://www.thehermitagehotel.com/"
+    },
+    {
+      "name": "JW Marriott Nashville",
+      "description": "Book now and get complimentary breakfast.",
+      "link": "https://www.marriott.com/en-us/hotels/bnajw-jw-marriott-nashville/"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Etch",
+      "description": "3-course tasting menu special this week.",
+      "link": "https://www.etchrestaurant.com/"
+    },
+    {
+      "name": "Kayne Prime",
+      "description": "Steak & wine pairing dinner discount.",
+      "link": "https://www.kayneprime.com/"
+    }
+  ]
+}
